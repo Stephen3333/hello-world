@@ -1,5 +1,6 @@
 # hello-world
-A hello world application.
+A simple application
+A simple hello World application
 
 Hello,
 I love coding
